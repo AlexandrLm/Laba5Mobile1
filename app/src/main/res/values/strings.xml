@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Laba5Mobile1</string>
+    <string name="hello1">Привет, %1$s %2$s</string>
+    <string name="hello2"> %1$s! ваша фамилия %2$s!</string>
+    <string name="hello3">%1$s %2$s</string>
+</resources>
